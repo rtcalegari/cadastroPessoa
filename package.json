@@ -1,0 +1,23 @@
+{
+  "name": "cadastropessoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtcalegari/cadastroPessoa.git"
+  },
+  "author": "Reginaldo Calgari Tiziano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtcalegari/cadastroPessoa/issues"
+  },
+  "homepage": "https://github.com/rtcalegari/cadastroPessoa#readme"
+}

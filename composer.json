@@ -1,0 +1,11 @@
+{
+    "name": "user/cadastro-pessoa",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reginaldo",
+            "email": "rtcalegari@hotmail.com"
+        }
+    ],
+    "require": {}
+}
