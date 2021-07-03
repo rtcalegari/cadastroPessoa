@@ -8,7 +8,9 @@
   <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
 </head>
 <body>
-  <h1>Hello World!</h1>
- <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script> 
+<?php
+  require __DIR__ . "/barra.php";
+ ?> 
+<script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>  
 </body>
 </html>
